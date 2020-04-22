@@ -54,3 +54,11 @@ export const Footer = styled.section`
     }
   }
 `;
+
+export const Status = styled.p`
+  background: coral;
+  padding: 10px 20px;
+  color: #fff;
+  margin: 10px 0;
+  font-size: 14px;
+`;
