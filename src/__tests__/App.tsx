@@ -210,8 +210,9 @@ describe('Dashboard', () => {
       ],
       'import.csv',
       {
-        // type: 'text/csv',
-        type: 'application/vnd.ms-excel',
+        // NA MINHA MÁQUINA SÓ FUNCIONA ESSE TYPE
+        // type: 'application/vnd.ms-excel',
+        type: 'text/csv',
       },
     );
 
